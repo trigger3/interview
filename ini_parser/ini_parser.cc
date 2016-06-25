@@ -6,8 +6,6 @@
 
 #include "ini_parser.h"
 
-//using namespace std;
-
 namespace qh
 {
 	INIParser::INIParser()
